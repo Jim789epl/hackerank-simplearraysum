@@ -1,0 +1,2 @@
+# hackerank-simplearraysum
+ problem
